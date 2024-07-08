@@ -46,7 +46,17 @@ Result-driven Data Engineer with a robust computer science foundation and compet
 
 ## Certifications
 
-`Microsoft Certified Azure Fundamentals (AZ-900)`, `Coursera: Foundations for Big Data Analytics with SQL (with Honors)`, `Udemy: Learn Database Design with MySQL`, `NPTEL: Programming, Data Structures and Algorithms Using Python`, `Udemy: Python for beginners`
+[`Microsoft Certified Azure Fundamentals (AZ-900)`](https://learn.microsoft.com/api/credentials/share/en-us/jamwalshah/67E567E823A63829), [`Coursera: Foundations for Big Data Analytics with SQL (with Honors)`](https://www.coursera.org/verify/7XKEFNQ2D9XK), [`Udemy: Python for beginners`](http://ude.my/UC-9a359103-00b1-4736-8542-13b8821f247d), [`Udemy: Learn Database Design with MySQL`](http://ude.my/UC-QFDEOVX9), [`NPTEL: Programming, Data Structures and Algorithms Using Python`](https://nptel.ac.in/noc/E_Certificate/noc18-cs21/NPTEL18CS21S44300281810060124.jpg)
+
+## Projects
+
+### [Road Accident Severity Prediction System](https://github.com/jamwalshah/road_accident_severity_prediction)
+
+> Data on accidents that happened in the US between 2016 and 2023 was gathered from Kaggle. `EDA` and `transformations` were carried out using `Pandas`, `PySpark` and `Azure Databricks`, and several `Machine Learning` techniques were applied to forecast the severity of road accidents, along with `visualization` using `Pandas` and `Microsoft Power BI`. Additionally, a web interface is created using `Python Django framework` to give users an interactive UI to input data and obtain predictions from ML models.
+
+### [Hospital Management System using Python, MySQL & Streamlit](https://github.com/jamwalshah/hospitalmanagement_python)
+
+> Created a `Python` based web-application which uses `Streamlit` for frontend, `Python` for backend and `mysql connector` to connect to `MySQL` database
 
 ## Awards
 
