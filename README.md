@@ -1,23 +1,23 @@
 # Surya Dev Singh Jamwal
 
-[+91-84920-97690](tel:+91-84920-97690) | hire.surya.ds.jamwal@gmail.com | [LinkedIn](https://linkedin.com/in/jamwalshah/) | [GitHub](https://github.com/jamwalshah) | New Delhi, India |
+[📱+91 84920 97690](tel:+91-84920-97690) | [📧hire.surya.ds.jamwal@gmail.com](mailto:hire.surya.ds.jamwal@gmail.com) | [🔗LinkedIn](https://linkedin.com/in/jamwalshah/) | [🔗GitHub](https://github.com/jamwalshah) | 📍New Delhi, India |
 
 ## Summary
 
-Result-driven Data Engineer with strong computer science background, exceptional analytics, proactive approach, determination to achieve goals, and eagerness to excel in Big Data Analytics and Machine Learning for cutting-edge projects
+Result-driven Data Engineer with a robust computer science foundation and competent in Big Data Technologies such as Hadoop, PySpark, SQL, Python, Microsoft Azure services such as Azure Databricks, Azure Data Factory (ADF) and Azure Data Lake Storage (ADLS), dedicated to delivering scalable solutions in Data Engineering and Machine Learning
 
 ## Education
 
-**Centre for Development of Advanced Computing | Mumbai (Kharghar), Maharashtra**\
-**Post-Graduate diploma in Big Data Aanlytics | 72.25% | Aug 2023**
+**Centre for Development of Advanced Computing (C-DAC) | Mumbai (Kharghar), Maharashtra**\
+**Post-Graduate diploma in Big Data Analytics | 72.25% | Aug 2023**
 
-**Maharashta Institute of Technology, Aurangabad | Aurangabad, Maharashtra**\
+**Maharashtra Institute of Technology, Aurangabad | Aurangabad, Maharashtra**\
 **Computer Science And Engineering (B.Tech.) | CGPA 7.21 | May 2020**
 
 ## Experience
 
-**Centre for Development of Advanced Computing (C-DAC) | Kolkata, West Bengal & Gurgaon, Haryana**\
-**Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Oct 2023 - Present] (7m)**
+**Centre for Development of Advanced Computing (C-DAC) | Kolkata, West Bengal & Gurugram, Haryana**\
+**Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Oct 2023 - Present] (9m)**
 
 - Oversaw site operations and client meetings, ensuring that the development team fully complied with all customer needs by communicating them in an understandable and straightforward manner
 - Developed and oversaw two projects, gathering and documenting comprehensive client requirements to create a strong foundation for the work process
@@ -25,7 +25,7 @@ Result-driven Data Engineer with strong computer science background, exceptional
 - It used scalable and modular scripts to configure servers and databases in the client's data center in order to optimize performance
 - Oversaw cross-functional remote teams while at the client's location to ensure smooth communication and timely project milestone fulfillment
 
-**Wipro Limited | Hinjewadi, Maharashtra**\
+**Wipro Limited | Hinjawadi, Maharashtra**\
 **Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Mar 2021 - Dec 2022] (1y9m)**
 
 - Operated on Linux based environment to validate 5 different IPs implemented with PCIe Gen3/4/5 protocol
@@ -33,7 +33,7 @@ Result-driven Data Engineer with strong computer science background, exceptional
 - Inspected BFM and extensively regressed IPs for Link Layer
 - Investigated and programmed fixes for DFX, ClkGating & PM issues
 
-**Techinvento IT Services Pvt. Ltd. | Auranagabad, Maharashtra & Remote**\
+**Techinvento IT Services Pvt. Ltd. | Aurangabad, Maharashtra & Remote**\
 **Intern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Jan 2020 - Jun 2020] (6m)**
 
 - Manually tested Web Apps to steer 3 different projects toward high-quality Apps
@@ -42,12 +42,14 @@ Result-driven Data Engineer with strong computer science background, exceptional
 
 ## Skills
 
-`Linux`, `Python`, `Git`, `SQL`, `MongoDB`, `Hadoop`, `Hive`, `Spark`, `R`, `Java`, `English`,  `Microsoft office`, `Communication skills`, `Microsoft Excel`, `Machine learning`, `Deep Learning`, `Regression Analysis`, `Classification`, `NLP (Natural Language Processing)`, `AWS`, `Azure`, `Unix Administration`, `ETL (Extract Transform Load)`, `Microsoft Power BI`, `Business Analysis`, `Project Management`, `Collaboration`, `Team Management`, `Leadership`
+`Python`, `SQL`, `Big Data`, `PySpark`, `Apache Spark`, `Databricks`, `Hadoop`, `Hive`, `Linux`, `Shell`, `Git`, `MySQL`, `Microsoft SQL Server`, `T-SQL`, `MongoDB`, `R`, `Machine Learning`, `Deep Learning`, `Regression Analysis`, `Classification`, `NLP (Natural Language Processing)`, `AWS`, `Microsoft Azure`, `Azure Data Factory (ADF)`, `Azure Data Lake Storage (ADLS)`, `Unix Administration`, `ETL (Extract Transform Load)`, `Data Warehousing`, `DWH (Data Warehouse)`, `Data Visualization`, `Microsoft Power BI`, `Statistics`, `Java`, `English`,  `Microsoft Office`, `Communication Skills`, `Microsoft Excel`, `Data Analytics`, `Business Analysis`, `Business Requirements`, `Project Management`, `Problem Solving`, `Collaboration`, `Team Management`, `Leadership`
 
 ## Certifications
 
-`Microsoft Certified Azure Fundamentals (AZ-900)`, `Foundations for Big Data Analytics with SQL (with Honors)`, `Learn Database Design with MySQL`, `Programming, Data Structures and Algorithms Using Python`, `Udemy: Python for beginners`
+`Microsoft Certified Azure Fundamentals (AZ-900)`, `Coursera: Foundations for Big Data Analytics with SQL (with Honors)`, `Udemy: Learn Database Design with MySQL`, `NPTEL: Programming, Data Structures and Algorithms Using Python`, `Udemy: Python for beginners`
 
 ## Awards
 
 - Special Mention by Computer Society of India at YITPA, 2020
+
+> Last Updated: 09 July 2024
