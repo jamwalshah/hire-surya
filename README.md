@@ -1,6 +1,6 @@
 # Surya Dev Singh Jamwal
 
-[📱+91 84920 97690](tel:+91-84920-97690) | [📧hire.surya.ds.jamwal@gmail.com](mailto:hire.surya.ds.jamwal@gmail.com) | [🔗LinkedIn](https://linkedin.com/in/jamwalshah/) | [🔗GitHub](https://github.com/jamwalshah) | 📍New Delhi, India |
+[📱+91 84920 97690](tel:+91-84920-97690) | [📧hire.surya.ds.jamwal@gmail.com](mailto:hire.surya.ds.jamwal@gmail.com) | [🔗LinkedIn](https://linkedin.com/in/jamwalshah/) | [🔗GitHub](https://github.com/jamwalshah) | 📍Kolkata (West Bengal) & Gurugram (Haryana), India
 
 ## Summary
 
@@ -9,40 +9,41 @@ Result-driven Data Engineer with a robust computer science foundation and compet
 ## Education
 
 **Centre for Development of Advanced Computing (C-DAC) | Mumbai (Kharghar), Maharashtra**\
-**Post-Graduate diploma in Big Data Analytics | 72.25% | Aug 2023**
+**Post-Graduate Diploma in Big Data Analytics (PG-DBDA) | 72.25% | Aug 2023**
 
 **Maharashtra Institute of Technology, Aurangabad | Aurangabad, Maharashtra**\
-**Computer Science And Engineering (B.Tech.) | CGPA 7.21 | May 2020**
+**Bachelor of Technology (B.Tech.) in Computer Science And Engineering (CSE) | 72.1% | May 2020**
 
 ## Experience
 
-**Centre for Development of Advanced Computing (C-DAC) | Kolkata, West Bengal & Gurugram, Haryana**\
+**Centre for Development of Advanced Computing (C-DAC) | Kolkata (West Bengal) & Gurugram (Haryana)**\
 **Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Oct 2023 - Present] (9m)**
 
-- Oversaw site operations and client meetings, ensuring that the development team fully complied with all customer needs by communicating them in an understandable and straightforward manner
-- Developed and oversaw two projects, gathering and documenting comprehensive client requirements to create a strong foundation for the work process
-- In less than a month, all field research, hardware, and software for a criminal biometric records management system under pilot in two Union Territories were finished
-- It used scalable and modular scripts to configure servers and databases in the client's data center in order to optimize performance
-- Oversaw cross-functional remote teams while at the client's location to ensure smooth communication and timely project milestone fulfillment
+- Kicked off and oversaw **3** projects, gathered and documented comprehensive `business requirements` to create a strong foundation for the work process
+- Oversaw site operations and client meetings, ensuring that the development team fully complied with all customer needs by communicating them, being on **2** projects from same client
+- Led a team of **12** members to coordinate technical support to state-wide integrators for pan-India rollout of **3** new criminal laws (BNS, BNSS & BSA)
+- In less than **1** month, successfully identified technical challenges for a criminal biometric records management system during its pilot, involving daily visits to Law Enforcement Agencies in two Union Territories
+- Achieved reliability & **20%** reduction in time to deploy by implementing optimized `SQL` scripts on `MS SQL` `databases` at client's data center
+- In less than **3** weeks, gathered client requirements for the development team in another project, coordinating with multiple stakeholders
 
-**Wipro Limited | Hinjawadi, Maharashtra**\
+**Wipro Limited | Hinjawadi (Maharashtra) & Remote**\
 **Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Mar 2021 - Dec 2022] (1y9m)**
 
-- Operated on Linux based environment to validate 5 different IPs implemented with PCIe Gen3/4/5 protocol
-- Guided new joiners in the project with the code base and project culture to accelerate the project
+- Operated on `Linux` based environment to validate **5** different IPs implemented with PCIe Gen3/4/5 protocol
+- Guided new joiners in the project with the code base on `git` and project culture to accelerate the project
 - Inspected BFM and extensively regressed IPs for Link Layer
 - Investigated and programmed fixes for DFX, ClkGating & PM issues
 
-**Techinvento IT Services Pvt. Ltd. | Aurangabad, Maharashtra & Remote**\
+**Techinvento IT Services Pvt. Ltd. | Aurangabad (Maharashtra) & Remote**\
 **Intern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Jan 2020 - Jun 2020] (6m)**
 
-- Manually tested Web Apps to steer 3 different projects toward high-quality Apps
+- Manually tested Web Apps to steer **3** different projects toward high-quality Apps
 - Worked in tandem with the marketing team to gather and comprehend client needs
-- Tools & Languages: Git, Node.js, MongoDB, HTML5, CSS3
+- Tools & Languages: `Git`, `MongoDB`, Node.js, HTML5, CSS3
 
 ## Skills
 
-`Python`, `SQL`, `Big Data`, `PySpark`, `Apache Spark`, `Databricks`, `Hadoop`, `Hive`, `Linux`, `Shell`, `Git`, `MySQL`, `Microsoft SQL Server`, `T-SQL`, `MongoDB`, `R`, `Machine Learning`, `Deep Learning`, `Regression Analysis`, `Classification`, `NLP (Natural Language Processing)`, `AWS`, `Microsoft Azure`, `Azure Data Factory (ADF)`, `Azure Data Lake Storage (ADLS)`, `Unix Administration`, `ETL (Extract Transform Load)`, `Data Warehousing`, `DWH (Data Warehouse)`, `Data Visualization`, `Microsoft Power BI`, `Statistics`, `Java`, `English`,  `Microsoft Office`, `Communication Skills`, `Microsoft Excel`, `Data Analytics`, `Business Analysis`, `Business Requirements`, `Project Management`, `Problem Solving`, `Collaboration`, `Team Management`, `Leadership`
+`Python`, `SQL`, `Big Data`, `PySpark`, `Apache Spark`, `Azure Databricks`, `Hadoop`, `Hive`, `Git`, `Linux`, `Shell scripting`, `MySQL`, `Microsoft SQL Server`, `T-SQL`, `MongoDB`, `R`, `Machine Learning`, `jupyter notebook`, `Pandas`, `NumPy`, `Scikit-learn`, `Gradient Descent`, `NLP (Natural Language Processing)`, `nltk`, `Deep Learning`, `Tensorflow`, `Regression Analysis`, `Classification`, `Amazon Web Services (AWS)`, `S3 Storage`, `Microsoft Azure`, `Azure Data Factory (ADF)`, `Azure Data Lake Storage (ADLS)`, `Unix Administration`, `ETL (Extract Transform Load)`, `Data Warehousing`, `DWH (Data Warehouse)`, `Delta Lake`, `Data Visualization`, `Microsoft Power BI`, `Matplotlib`, `Seaborn`, `Statistics`, `Streamlit`, `Python Django Framework`, `Java`, `English`,  `Microsoft Office`, `Communication Skills`, `Microsoft Excel`, `Data Analytics`, `Business Analysis`, `Business Requirements`, `Project Management`, `Problem Solving`, `Collaboration`, `Team Management`, `Leadership`
 
 ## Certifications
 
@@ -52,14 +53,14 @@ Result-driven Data Engineer with a robust computer science foundation and compet
 
 ### [Road Accident Severity Prediction System](https://github.com/jamwalshah/road_accident_severity_prediction)
 
-> Data on accidents that happened in the US between 2016 and 2023 was gathered from Kaggle. `EDA` and `transformations` were carried out using `Pandas`, `PySpark` and `Azure Databricks`, and several `Machine Learning` techniques were applied to forecast the severity of road accidents, along with `visualization` using `Pandas` and `Microsoft Power BI`. Additionally, a web interface is created using `Python Django framework` to give users an interactive UI to input data and obtain predictions from ML models.
+> Data on accidents that happened in the US between 2016 and 2023 was gathered from Kaggle. `EDA` and `transformations` were carried out using `Pandas`, `jupyter notebook`, `PySpark` and `Azure Databricks`, and several `Machine Learning` techniques were applied to forecast the severity of road accidents, along with `visualization` using `Pandas` and `Microsoft Power BI`. Additionally, a web interface is created using `Python Django framework` to give users an interactive UI to input data and obtain predictions from `Machine Learning models`.
 
 ### [Hospital Management System using Python, MySQL & Streamlit](https://github.com/jamwalshah/hospitalmanagement_python)
 
-> Created a `Python` based web-application which uses `Streamlit` for frontend, `Python` for backend and `mysql connector` to connect to `MySQL` database
+> Created a `Python` based web-application which uses `Streamlit` for frontend, `Python` for backend and `mysql connector` to connect to `MySQL` database to process the data of patients, their assigned nurses and doctors within a hospital
 
 ## Awards
 
 - Special Mention by Computer Society of India at YITPA, 2020
 
-> Last Updated: 09 July 2024
+> Last Updated: 24 July 2024
