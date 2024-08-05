@@ -1,32 +1,31 @@
 # Surya Dev Singh Jamwal
 
-[📱+91 84920 97690](tel:+91-84920-97690) | [📧hire.surya.ds.jamwal@gmail.com](mailto:hire.surya.ds.jamwal@gmail.com) | [🔗LinkedIn](https://linkedin.com/in/jamwalshah/) | [🔗GitHub](https://github.com/jamwalshah) | 📍Kolkata (West Bengal) & Gurugram (Haryana), India
+[📱+91 84920 97690](tel:+91-84920-97690) | [📧hire.surya.ds.jamwal@gmail.com](mailto:hire.surya.ds.jamwal@gmail.com) | 📍*Kolkata (West Bengal) & Gurugram (Haryana), India* | [🔗LinkedIn/jamwalshah](https://linkedin.com/in/jamwalshah/) | [🔗GitHub/jamwalshah](https://github.com/jamwalshah)
 
 ## Summary
 
-Result-driven Data Engineer with a robust computer science foundation and competent in Big Data Technologies such as Hadoop, PySpark, SQL, Python, Microsoft Azure services such as Azure Databricks, Azure Data Factory (ADF) and Azure Data Lake Storage (ADLS), dedicated to delivering scalable solutions in Data Engineering and Machine Learning
+Result-driven Data Engineer with a robust computer science foundation and competent in Big Data Technologies such as Hadoop, PySpark, SQL, Python, Microsoft Azure services such as Azure Databricks, Azure Data Factory (ADF), Azure Synapse Analytics and Azure Data Lake Storage (ADLS), dedicated to delivering scalable solutions in Data Engineering and Machine Learning
 
 ## Education
 
-**Centre for Development of Advanced Computing (C-DAC) | Mumbai (Kharghar), Maharashtra**\
+**Centre for Development of Advanced Computing (C-DAC) | *Mumbai (Kharghar), Maharashtra***\
 **Post-Graduate Diploma in Big Data Analytics (PG-DBDA) | 72.25% | Aug 2023**
 
-**Maharashtra Institute of Technology, Aurangabad | Aurangabad, Maharashtra**\
+**Dr. Babasaheb Ambedkar Marathwada University | Maharashtra Institute of Technology | *Aurangabad, Maharashtra***\
 **Bachelor of Technology (B.Tech.) in Computer Science And Engineering (CSE) | 72.1% | May 2020**
 
 ## Experience
 
-**Centre for Development of Advanced Computing (C-DAC) | Kolkata (West Bengal) & Gurugram (Haryana)**\
+**Centre for Development of Advanced Computing (C-DAC) | *Kolkata (West Bengal) & Gurugram (Haryana)***\
 **Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Oct 2023 - Present] (9m)**
 
-- Kicked off and oversaw **3** projects, gathered and documented comprehensive `business requirements` to create a strong foundation for the work process
-- Oversaw site operations and client meetings, ensuring that the development team fully complied with all customer needs by communicating them, being on **2** projects from same client
-- Led a team of **12** members to coordinate technical support to state-wide integrators for pan-India rollout of **3** new criminal laws (BNS, BNSS & BSA)
-- In less than **1** month, successfully identified technical challenges for a criminal biometric records management system during its pilot, involving daily visits to Law Enforcement Agencies in two Union Territories
-- Achieved reliability & **20%** reduction in time to deploy by implementing optimized `SQL` scripts on `MS SQL` `databases` at client's data center
+- Kicked off and oversaw **3** projects, documented comprehensive `business requirements` to create a strong work process foundation
+- Led a team of **12** members for technical support to state-wide integrators in pan-India rollout of **3** new criminal laws
+- Visited Law Enforcement agencies in **2** UTs and successfully identified technical challenges for a criminal biometric records management system during its pilot, in less than **1** month
+- Achieved reliability & **20%** reduction in time to deploy by optimizing `SQL` scripts on `MS SQL` `databases` at client's data center
 - In less than **3** weeks, gathered client requirements for the development team in another project, coordinating with multiple stakeholders
 
-**Wipro Limited | Hinjawadi (Maharashtra) & Remote**\
+**Wipro Limited | *Hinjawadi (Maharashtra) & Remote***\
 **Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Mar 2021 - Dec 2022] (1y9m)**
 
 - Operated on `Linux` based environment to validate **5** different IPs implemented with PCIe Gen3/4/5 protocol
@@ -34,7 +33,7 @@ Result-driven Data Engineer with a robust computer science foundation and compet
 - Inspected BFM and extensively regressed IPs for Link Layer
 - Investigated and programmed fixes for DFX, ClkGating & PM issues
 
-**Techinvento IT Services Pvt. Ltd. | Aurangabad (Maharashtra) & Remote**\
+**Techinvento IT Services Pvt. Ltd. | *Aurangabad (Maharashtra) & Remote***\
 **Intern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Jan 2020 - Jun 2020] (6m)**
 
 - Manually tested Web Apps to steer **3** different projects toward high-quality Apps
@@ -63,4 +62,4 @@ Result-driven Data Engineer with a robust computer science foundation and compet
 
 - Special Mention by Computer Society of India at YITPA, 2020
 
-> Last Updated: 24 July 2024
+> Last Updated: 05 August 2024
