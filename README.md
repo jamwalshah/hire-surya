@@ -4,52 +4,44 @@
 
 ## Summary
 
-Immediate Joiner, Result-driven Data Engineer with a robust computer science foundation and competent in Big Data Technologies such as Hadoop, PySpark, SQL, Python, Microsoft Azure services such as Azure Databricks (ADB), Azure Data Factory (ADF), Azure Synapse Analytics and Azure Data Lake Storage (ADLS), dedicated to delivering scalable solutions in Data Engineering and Machine Learning
+Results-driven Data Engineer skilled in Big Data (Hadoop, PySpark) and Microsoft Azure (Databricks, Data Factory) for delivering scalable data engineering solutions. Proficient in orchestrating data movementand transformation across cloud and on-premise environments, ensuring efficient data pipelines. Proven track record in optimizing SQL scripts for a faster deployment. Immediate joiner eager to contribute to innovative projects.
 
 ## Experience
 
-**Centre for Development of Advanced Computing (C-DAC) &nbsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*[Kolkata (West Bengal) & Gurugram (Haryana)]***\
-**Project Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Oct 2023 - Aug 2024] (10m)**
-
-- Kicked off and oversaw **3** projects, documented comprehensive `business requirements` to create a strong work process foundation
-- Led a team of **12** members for technical support to statewide integrators in pan India rollout of **3** new criminal laws
-- Within **1** month, worked on-site with law enforcement in **2** UTs, reported issues with a criminal biometric records management system during its pilot
-- Achieved reliability & **20%** reduction in time to deploy by optimizing `SQL` scripts on `MS SQL Server` `databases` at client's data center
-- In less than **3** weeks, gathered client requirements for the development team in another project, coordinating with multiple stakeholders
-
-**Wipro Limited &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*[Hinjawadi (Maharashtra) & Remote]***\
-**Project Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Mar 2021 - Dec 2022] (1y9m)**
-
-- Operated on `Linux` based environment to validate **5** different IPs implemented with PCIe Gen3/4/5 protocol
-- Guided new joiners in the project with the code base on `git` and project culture to accelerate the project
-- Generated reports using a `SQL` based proprietary tool
-- Inspected BFM and extensively regressed IPs for Link Layer
-- Investigated and developed fixes for DFX, ClkGating, PM issues
-
-**Techinvento IT Services Pvt. Ltd. &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*[Aurangabad (Maharashtra) & Remote]***\
-**Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Jan 2020 - Jun 2020] (6m)**
-
-- Manually tested Web Apps to steer **3** different projects toward high-quality Apps
-- Worked in tandem with the marketing team to gather and comprehend client needs
-- Tools & Languages: `Git`, `MongoDB`, Node.js, HTML5, CSS3
+**Centre for Development of Advanced Computing (C-DAC) &nbsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*[Kolkata (West Bengal) & Gurugram (Haryana)]***\
+&emsp;&emsp;**Project Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Oct 2023 - Aug 2024] (9m)**\
+&emsp;• Optimized `SQL` scripts on `MS SQL Server` `databases` at client's data center to achieve reliability and **20%** reduction in time to deploy\
+&emsp;• Initiated and coordinated **3** projects, gathered `business requirements` and ensured alignment with the development team, thereby optimizing timelines\
+&emsp;• Led a team of **12** members for technical support to statewide integrators in pan India rollout of **3** new criminal laws\
+&emsp;• Within **1** month, worked on-site with law enforcement in **2** UTs, reported issues with a criminal biometric records management system during its pilot\
+&emsp;• In less than **3** weeks, gathered client requirements for the development team in another project, coordinating with multiple stakeholders\
+**Wipro Limited &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*[Hinjawadi (Maharashtra) & Remote]***\
+&emsp;&emsp;**Project Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Mar 2021 - Dec 2022] (1y10m)**\
+&emsp;• Generated project reports for client using a `SQL` based proprietary tool\
+&emsp;• Validated 5 IPs implemented with PCIe Gen3/4/5 protocol in a `Linux` based \
+&emsp;• Mentored new joiners with the code base hosted on `git` and project culture to accelerate the project\
+&emsp;• `Analyzed` and `developed` fixes for DFX, ClkGating, PM issues\
+&emsp;• Inspected BFM and extensively regressed IPs for Link Layer features\
+**Techinvento IT Services Pvt. Ltd. &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*[Aurangabad (Maharashtra) & Remote]***\
+&emsp;&emsp;**Intern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Jan 2020 - Jun 2020] (6m)**\
+&emsp;• Manually tested Web Apps to steer **3** different projects toward high-quality Apps\
+&emsp;• Worked in tandem with the marketing team to gather and comprehend client needs\
+&emsp;• Tools & Languages: `Git`, `MongoDB`, Node.js, HTML5, CSS3
 
 ## Projects
 
-**Road Accident Severity Prediction System[[Project Link]](https://github.com/jamwalshah/road_accident_severity_prediction)**
+**Road Accident Severity Prediction System[[Project Link]](https://github.com/jamwalshah/road_accident_severity_prediction)**\
+&emsp; Data on road accidents in the US between 2016 and 2023 was sourced from Kaggle. After basic `EDA` in `pandas` to understand data distribution and identify patterns, data was loaded into `Azure Data Lake Storage` and `transformations` were carried out using `jupyter notebook` and `PySpark` in `Azure Databricks`, and several `Machine Learning` models, such as `Logistic Regression`, `Decision Tree Classifier`, `Random Forest Classifier`, `XG Boost RF Classifier` and `Naive-Bayes Classifier`, `K-Nearest Neighbor (KNN) classifier` were applied to forecast the severity of road accidents, along with `visualization` using `Pandas` and `Microsoft Power BI`. Additionally, a web interface is created using `Python Django framework` enabling users to input data and obtain predictions from `Machine Learning models`. Results from different Machine Learning Models were analyzed to tune and improve their performance.
 
-> Data on accidents that happened in the US between 2016 and 2023 was gathered from Kaggle. `EDA` and `transformations` were carried out using `Pandas`, `jupyter notebook`, `PySpark` and `Azure Databricks`, and several `Machine Learning` models such as `Logistic Regression Model`, `Decision Tree Classifier Model`, `Random Forest Classifier Model`, `XG Boost RF Classifier Model` and `Naive-Bayes Classifier Model`, `K-Nearest Neighbor (KNN) classifier Model` were applied to forecast the severity of road accidents, along with `visualization` using `Pandas` and `Microsoft Power BI`. Additionally, a web interface is created using `Python Django framework` to give users an interactive UI to input data and obtain predictions from `Machine Learning models`. Results from different Machine Learning Models were analyzed for tuning the respective model.
-
-**Hospital Management System using Python, MySQL & Streamlit[[Project Link]](https://github.com/jamwalshah/hospitalmanagement_python)**
-
-> Created a `Python` based web-application which uses `Streamlit` library for frontend, `Python` for backend and `mysql connector` to connect to `MySQL` database to process the data of patients, their assigned nurses and doctors within a hospital.
+**Hospital Management System using Python, MySQL & Streamlit[[Project Link]](https://github.com/jamwalshah/hospitalmanagement_python)**\
+&emsp; Created a `Python` based web-application which uses `Streamlit` library for frontend, `Python` for backend and `mysql connector` to connect to `MySQL` database to process the data of patients, their assigned nurses and doctors within a hospital.
 
 ## Education
 
-**Centre for Development of Advanced Computing (C-DAC)** &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***[Mumbai (Kharghar), Maharashtra]***\
-**Post-Graduate Diploma in Big Data Analytics (PG-DBDA) | 72.25%** &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**[Mar 2023 - Aug 2023]**
-
-**Dr. Babasaheb Ambedkar Marathwada University | Maharashtra Institute of Technology** &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***[Aurangabad, Maharashtra]***\
-**Bachelor of Technology (B.Tech.) in Computer Science And Engineering (CSE) | 72.1%** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**[Aug 2016 - May 2020]**
+- **Centre for Development of Advanced Computing (C-DAC)** &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***[Mumbai (Kharghar), Maharashtra]***\
+&emsp;&emsp;**Post-Graduate Diploma in Big Data Analytics (PG-DBDA) | 72.25%** &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**[Mar 2023 - Aug 2023]**
+- **Dr. Babasaheb Ambedkar Marathwada University | Maharashtra Institute of Technology** &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***[Aurangabad, Maharashtra]***\
+&emsp;&emsp;**Bachelor of Technology (B.Tech.) in Computer Science And Engineering (CSE) | 72.1%** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**[Aug 2016 - May 2020]**
 
 ## Certifications
 
@@ -57,10 +49,10 @@ Immediate Joiner, Result-driven Data Engineer with a robust computer science fou
 
 ## Skills
 
-`Python`, `SQL`, `Big Data`, `PySpark`, `Apache Spark`, `Azure Databricks (ADB)`, `Apache Hadoop`, `Apache Hive`, `Git`, `Linux`, `Shell Scripting`, `MySQL`, `Microsoft SQL Server`, `T-SQL`, `MongoDB`, `R`, `Machine Learning`, `jupyter notebook`, `Pandas`, `NumPy`, `Scikit-learn`, `Gradient Descent`, `NLP (Natural Language Processing)`, `nltk`, `Deep Learning`, `Tensorflow`, `Regression Analysis`, `Classification`, `Microsoft Azure`, `Azure Data Factory (ADF)`, `Azure Data Lake Storage (ADLS)`, `Amazon Web Services (AWS)`, `S3 Storage`, `Unix Administration`, `ETL (Extract Transform Load)`, `Data Warehousing`, `DWH (Data Warehouse)`, `Delta Lake`, `Data Visualization`, `Microsoft Power BI`, `Matplotlib`, `Seaborn`, `Statistics`, `Statistical Analysis` `Streamlit`, `Python Django Framework`, `Java`, `English`,  `Microsoft Office`, `Excellent Communication Skills`, `Microsoft Excel`, `Data Analytics`, `Business Analysis`, `Business Requirements`, `Project Management`, `Problem Solving`, `Collaboration`, `Team Management`, `Leadership`
+`Python`, `SQL`, `Big Data`, `PySpark`, `Azure Databricks (ADB)`, `Azure Data Factory (ADF)`, `Azure Data Lake Storage (ADLS)`, `Azure Synapse Analytics (ASA)`, `Delta Lake`, `Apache Spark`, `Spark Streaming`, `Spark SQL`, `Docker`, `Microsoft Azure`, `Microsoft Power BI`, `Apache Hadoop`, `Apache Hive`, `Git`, `Linux`, `Apache Kafka`, `Apache Airflow`, `ETL (Extract Transform Load)`, `Data Visualization`, `Matplotlib`, `Seaborn`, `Streamlit`, `Python Django Framework`, `jupyter notebook`, `Pandas`, `Data Warehousing`, `DWH (Data Warehouse)`, `postgres`, `MySQL`, `Microsoft SQL Server`, `T-SQL`, `MongoDB`, `R`, `NumPy`, `Statistics`, `Statistical Analysis`, `Scikit-learn`, `Gradient Descent`, `Machine Learning`, `NLP (Natural Language Processing)`, `nltk`, `Tensorflow`, `Deep Learning`, `Regression Analysis`, `Classification`, `Amazon Web Services (AWS)`, `S3 Storage`, `Shell Scripting`, `Unix Administration`, `Java`, `English`,  `Microsoft Office`, `Excellent Communication Skills`, `Microsoft Excel`, `Data Analytics`, `Business Analysis`, `Business Requirements`, `Project Management`, `Problem Solving`, `Collaboration`, `Team Management`, `Leadership`
 
 ## Awards
 
-- Special Mention by Computer Society of India at YITPA, 2020
+&emsp;• Special Mention by Computer Society of India at YITPA, 2020
 
-> Last Updated: 24 September 2024
+> Last Updated: 29 October 2024
